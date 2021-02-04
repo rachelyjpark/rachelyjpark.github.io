@@ -1,0 +1,59 @@
+body {
+	background-color: #9bc0d7;
+}
+
+h1 {
+	text-align: center;
+	color: #f5f3e7;
+	font-family: arial;
+	letter-spacing: 3px;
+	font-size: 30px;
+	margin: 30px;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 50%;
+}
+.intro {
+	text-align: center;
+	color: black;
+	font-family: arial;
+	font-size: 20px;
+	color: #f5f3e7;
+}
+h2 {
+	text-align: center;
+	font-family: arial;
+	color: #f5f3e7;
+	font-size: 30px;
+	margin: 30px;
+}
+
+p {
+	text-align: center;
+	font-family: arial;
+	font-size: 20px;
+	color: #f5f3e7;
+	filter: blur(2px);
+	padding: 15px;
+}
+p:hover {
+	filter: none;
+	cursor: pointer;
+}
+
+a {
+	color: #3a7092;
+	font-family: arial;
+
+}
+.spotify {
+		text-align: center;
+	font-family: arial;
+	font-size: 20px;
+	color: #f5f3e7;
+
+}
+
