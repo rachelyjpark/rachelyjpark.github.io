@@ -1,5 +1,6 @@
 body {
 	background-color: #9bc0d7;
+	position: 
 }
 
 h1 {
@@ -47,7 +48,7 @@ p:hover {
 }
 
 a {
-	color: #3a7092;
+	color: #fdeb96;
 	font-family: arial;
 
 }
@@ -56,6 +57,7 @@ a {
 	font-family: arial;
 	font-size: 20px;
 	color: #f5f3e7;
+	padding-bottom: 40px;
 
 }
 
